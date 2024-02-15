@@ -1,0 +1,106 @@
+.title{
+
+    font-family: "楷体";
+    font-size: 80px;
+    text-align: center;
+    background-color: pink;
+}
+
+.blue
+           {
+              color: blue;
+           }
+.small
+          {
+            line-height:1px;  
+
+           }
+
+p         {
+            text-align: center;
+          }
+
+
+
+  .home     {
+    background: url(img/85960a8a87d6277f712a320d6e381f30e924fc60.jpg) 1200px 2000px;
+    bottom: auto;
+    padding: 5px 20px;
+ height: auto;
+ width: 1350px;
+margin: auto;
+border: 1px solid plum;}
+        
+        
+         
+          
+  .ehome{
+    width: 950px;
+    margin: auto;
+           border: 10px solid gray
+
+
+}
+.ul         { 
+              
+  background-color: pink;
+  font-family: "楷体";
+  font-size: 19px;
+
+    }
+            
+.ur   { 
+  background-color: pink;
+  font-family: "楷体";
+  font-size: 19px;
+  
+         }
+             
+
+
+
+li      {
+  height: 50px;
+    }
+table
+{
+  width: 1350px;
+  border: 10px solid gray
+}
+   td
+{
+border: 10px solid grey
+
+
+}
+.main
+{
+background-color: pink;
+font-family: "楷体";
+font-size: 25px;
+color: hotpink;
+
+
+
+}
+
+.lie{
+  text-align: center;
+  background-color: pink;
+}
+.bt
+{
+background-color: pink;
+width: 150px;
+display: inline-block
+}
+.bt2
+{
+background-color: pink;
+width: 800px;
+margin: auto;
+display: inline-block
+}
+.xv{
+  margin: auto;
+}
